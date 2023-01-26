@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lager repo!");
+            Console.WriteLine("Main!");
         }
     }
 }
